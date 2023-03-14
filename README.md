@@ -30,7 +30,7 @@
 - Умение работать в команде
 
 ## Портфолио
-- Итоговая работа по автоматизации тестирования: [//github.com/oleza034/Skillfactory/tree/master/Python/Final%20project].
+- Итоговая работа по автоматизации тестирования: //github.com/oleza034/Skillfactory/tree/master/Python/Final%20project .
 - Итоговая работа в рамках обучения по ручному тестированию - тестирование сайта http://130.193.37.179/app/pets (чек-лист, баг-репорт, тесткейсы)  [//docs.google.com/spreadsheets/d/1mj-xmH4HcSPK8cg1_ARbtU2Qky1F9d2B1vuzv2WnH8o?usp=drive_fs](//docs.google.com/spreadsheets/d/1mj-xmH4HcSPK8cg1_ARbtU2Qky1F9d2B1vuzv2WnH8o?usp=drive_fs)
 - Тестирование API в Postman: [//github.com/oleza034/Skillfactory/tree/master/Practice](//github.com/oleza034/Skillfactory/tree/master/Practice)
 - Тестирование API в Pytest: [//github.com/oleza034/Skillfactory/tree/master/Python/20%20Testing%20REST%20API](//github.com/oleza034/Skillfactory/tree/master/Python/20%20Testing%20REST%20API)
